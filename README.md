@@ -14,9 +14,10 @@ A Web Developer passionate about building web applications with modern interface
 ---
 
 ### 📊 GitHub Stats
+<h3>📊 Statistik GitHub</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=paisalj&show_icons=true&theme=tokyonight" alt="Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paisalj&layout=compact&theme=tokyonight" alt="Top Languages" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=paisalj&show_icons=true&theme=tokyonight" width="400" alt="paisalj github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paisalj&layout=compact&theme=tokyonight" width="350" alt="paisalj top langs" />
 </p>
 
 ---
